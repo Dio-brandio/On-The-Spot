@@ -113,7 +113,7 @@ document.getElementById('con-log').innerHTML = `
     <p>Contact:+6969696969
     </p>
     <p>
-        Email:rdxninja1234@gmail.com
+        Email:onthespot@gmail.com
     </p>
 </div>
 <div class="login d-flex justify-content-evenly w-50">
