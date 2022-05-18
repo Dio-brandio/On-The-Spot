@@ -110,7 +110,7 @@
 document.getElementById('con-log').innerHTML = `
 <div class="con-login my-4 w-100 d-flex justify-content-around">
 <div class="contact d-flex justify-content-around w-50">
-    <p>Contact:+6969696969
+    <p>Contact:+9864326856
     </p>
     <p>
         Email:onthespot@gmail.com
@@ -191,7 +191,7 @@ document.getElementById('modal-wr').innerHTML = `
                     <label for="inputState" class="form-label">State</label>
                     <select id="inputState" class="form-select">
                     <option selected>Choose...</option>
-                    <option>Gujrat</option>
+                    <option>Gujarat</option>
                   </select>
                 </div>
 
